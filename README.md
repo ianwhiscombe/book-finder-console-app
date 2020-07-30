@@ -13,6 +13,8 @@
 > Update and amend the location and rating of a book.
 > Delete a book from your library.
 
+## <a href='https://github.com/ianwhiscombe/book-finder-console-app'>Homepage</a>
+
 ## Usage
 
 ```sh
