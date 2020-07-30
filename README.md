@@ -8,10 +8,10 @@
 > A small CRUD based app that runs in the console designed to demonstrate my understanding of JavaScript classes, constructors and methods.
 > This app holds a library of your books, showing the title, author, genre, location in your house and your five star rating. It allows you to:
 
-> Create a new book and and it to your library.
-> Read/search for an existing book.
-> Update and amend the location and rating of a book.
-> Delete a book from your library.
+- Create a new book and and it to your library.
+- Read/search for an existing book.
+- Update and amend the location and rating of a book.
+- Delete a book from your library.
 
 ## 🏡 <a href='https://github.com/ianwhiscombe/book-finder-console-app'>Homepage</a>
 
